@@ -9,10 +9,13 @@ h1, h2 {
     color: #058181;
     font-size: 1.20em;
 }
-p {
+p, ul.special {
     color: #1500d6;
     font-size: 1.25em;
 }
 h4 {
     font-size: 1.17em;
+}
+blockquote {
+    font-size: 1.2em;
 }
